@@ -1,0 +1,20 @@
+"Ngay HS-SV Viet Nam la ngay bao nhieu?" "9/1" "23/2" "20/11" "8/3"
+9/1
+"Quang Trung va Nguyen Hue co quan he nhu the nao?" "anh em" "cha con" "me con" "la mot nguoi"
+la mot nguoi
+"Nguyen to hoa hoc nao phong phu nhat trong vo trai dat?" "nito" "oxi" "carbon" "sat"
+oxi
+"Nhom nhac ABBA gom bao nhieu thanh vien?" "1" "2" "3" "4"
+4
+"Con gi dap thi song khong dap thi chet?" "con nguoi" "con ma" "con tim" "con mat"
+con tim
+"Cai gi cang choi cang ra nuoc?" "choi game" "choi co" "choi nhac" "khong choi gi"
+choi co
+"Thu do cua Australia o dau?" "Canberra" "Sydney" "Ha Noi" "Japan"
+Canberra
+"HCMUS la viet tat cua truong dai hoc nao?" "Back Khoa" "Khoa hoc tu nhien" "Su pham" "Nong lam"
+Khoa hoc tu nhien
+"Viet Nam co bao nhieu dan toc?" "51" "52" "53" "54"
+54
+"Doi bong vo dich nhieu nhat tai giai Champions Leauge la?" "MU" "Barcelona" "Real Madrid" "Liverpool"
+Real Madrid
